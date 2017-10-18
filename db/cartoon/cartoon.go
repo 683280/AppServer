@@ -1,0 +1,5 @@
+package cartoon
+
+func GetCartoonType(){
+
+}
